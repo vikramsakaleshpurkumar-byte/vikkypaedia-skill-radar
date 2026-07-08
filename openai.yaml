@@ -1,0 +1,7 @@
+interface:
+  display_name: "Vikkypaedia Skill Radar"
+  short_description: "Finds the best saved skill for a task"
+  default_prompt: "Use $skill-radar to recommend the best saved skill for this task before proceeding."
+
+policy:
+  allow_implicit_invocation: true
